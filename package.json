@@ -1,0 +1,8 @@
+{
+  "name": "dark-theory-labs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node api/src/server.ts",
+    "start": "node api/src/server.ts"
+  }
+}
